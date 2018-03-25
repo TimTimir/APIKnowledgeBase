@@ -1,10 +1,10 @@
 # APIKnowledgeBase
 
 Kubernetes
-https://twitter.com/kubernetesio/status/977190817789108225?s=08
-https://habrahabr.ru/post/346304/
-https://m.habrahabr.ru/company/flant/blog/349496/
-https://habrahabr.ru/post/347810/
+- https://twitter.com/kubernetesio/status/977190817789108225?s=08
+- https://habrahabr.ru/post/346304/
+- https://m.habrahabr.ru/company/flant/blog/349496/
+- https://habrahabr.ru/post/347810/
 
 Docker
 https://m.habrahabr.ru/post/310460/
@@ -149,8 +149,3 @@ https://habrahabr.ru/post/340146/
 Competitors/Partners
 https://oplata.tinkoff.ru/landing/business
 https://www.ingos.ru/partners/
-
-newline
-another newline
-
-one more line
