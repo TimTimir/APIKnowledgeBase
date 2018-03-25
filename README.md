@@ -1,6 +1,6 @@
 # APIKnowledgeBase
-- 
-- Kubernetes
+
+Kubernetes
 - https://twitter.com/kubernetesio/status/977190817789108225?s=08
 - https://habrahabr.ru/post/346304/
 - https://m.habrahabr.ru/company/flant/blog/349496/
