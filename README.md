@@ -47,6 +47,8 @@ Testing
 - https://github.com/Shopify/toxiproxy/blob/master/README.md
 - https://habrahabr.ru/post/343298/
 - https://habrahabr.ru/post/302736/
+- https://habrahabr.ru/post/332754/
+- https://github.com/allure-framework/allure2
 
 Security
 - http://mailer.dzone.com/link.php?M=15664199&N=14202&L=109312&F=H
